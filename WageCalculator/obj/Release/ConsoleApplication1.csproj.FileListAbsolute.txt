@@ -1,0 +1,6 @@
+c:\users\sincs\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\sincs\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\HourlyWageCalc.exe.config
+c:\users\sincs\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\HourlyWageCalc.exe
+c:\users\sincs\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\HourlyWageCalc.pdb
+c:\users\sincs\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\HourlyWageCalc.exe
+c:\users\sincs\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\HourlyWageCalc.pdb
